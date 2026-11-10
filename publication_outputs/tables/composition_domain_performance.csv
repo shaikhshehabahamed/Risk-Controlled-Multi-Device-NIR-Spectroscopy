@@ -1,0 +1,4 @@
+domain,accuracy,balanced_accuracy,macro_f1
+Benchtop_N,0.9921259842519684,0.997863247863248,0.9878136200716846
+Handheld_F,1.0,1.0,1.0
+Handheld_S,1.0,1.0,1.0

@@ -1,0 +1,6 @@
+device,threshold
+Benchtop_N,0.4755419665645191
+Handheld_F,0.651035047403937
+Handheld_S,0.37825342893276254
+min_margin,0.0
+max_entropy,0.4161683928806237

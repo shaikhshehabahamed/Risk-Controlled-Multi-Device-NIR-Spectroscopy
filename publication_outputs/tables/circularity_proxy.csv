@@ -1,0 +1,7 @@
+composition_code,canonical_code,dominant_component,dominant_fraction,n_nonzero_components,recoverability_proxy,mono_material_bonus,blend_complexity_penalty,normalized_entropy,effective_n_components,sorting_difficulty_proxy,fraction_a,fraction_b,fraction_c,fraction_g,fraction_i,fraction_x
+a050b050x000,a050b050x000,a,0.5,2,0.5,0.5,0.5,1.0,2.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0
+a100x000x000,a100x000,a,1.0,1,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+b100x000x000,b100x000,b,1.0,1,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+c100x000x000,c100x000,c,1.0,1,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+g100x000x000,g100x000,g,1.0,1,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+i100x000x000,i100x000,i,1.0,1,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
